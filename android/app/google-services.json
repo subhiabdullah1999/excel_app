@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "556836445873",
+    "project_id": "monitoring-data1",
+    "storage_bucket": "monitoring-data1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:556836445873:android:0d9b64e269c2ccdf8f4c90",
+        "android_client_info": {
+          "package_name": "com.view.monitoringdata1_excel"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAC-cg1lvjntSaOAKvdTwxgbuZPc6-2d3g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
